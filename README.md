@@ -1,5 +1,7 @@
-Is abbreviated RDBMS
+Is abbreviated RDBMS.
+
 Key is a concept in relational databases; its purpose is to identify each data record in one table to avoid duplication of data.
+
 There are three relationships that use this: 1-1, 1-n, and n-n.
 
 Today,  data is extremely important, so every application has to make sure that the data is correct, consistent, and complete. RDBMS can address this issue.
