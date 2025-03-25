@@ -1,0 +1,13 @@
+-r common.txt
+
+# testing libs
+pytest-django==4.7.0
+pytest-cov==4.1.0
+pytest-mock==3.14.0
+pytest-schema==0.1.2
+pytest-pudb
+Faker==20.1.0
+# REPL debug
+pudb
+ipython
+ipdb

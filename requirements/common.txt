@@ -1,0 +1,29 @@
+## PLEASE ADD DEPENDENCIES WITH VERSION NUMBER
+
+# pip freeze > requirements.txt
+# At the moment, we don't have custom packages anymore. Set these and get new repo access token if needed
+# -i https://pypi.org/simple --trusted-host git.gsi-software.com
+# --index-url https://read-package-token:CHANGEME@git.gsi-software.com/api/v4/projects/134/packages/pypi/simple
+
+# our dependencies
+pandas==2.2.3
+openpyxl==3.1.5
+xmlschema==3.4.3
+xmltojson==2.0.3
+xmltodict==0.14.2
+JsonToXML==0.0.2
+Django==5.1.0
+djangorestframework==3.14.0
+markdown==3.7
+django-filter==24.3
+psycopg2==2.9.10
+djangorestframework-simplejwt==5.3.1
+django-extensions
+django-cors-headers==4.6.0
+pyotp==2.9.0
+python-decouple==3.8
+requests==2.32.3
+whitenoise
+resize-image==0.4.0
+pillow==11.1.0
+XlsxWriter==3.2.2
